@@ -38,7 +38,6 @@ document.addEventListener('DOMContentLoaded', () => {
                         <i class="fa-solid fa-circle-check" style="font-size: 4rem; color: var(--secondary); margin-bottom: 20px;"></i>
                         <h2 style="margin-bottom: 15px;">Account Deleted Successfully</h2>
                         <p style="color: #666; margin-bottom: 30px;">Your account and all associated data have been permanently removed. We're sorry to see you go.</p>
-                        <a href="index.html" class="btn btn-primary" style="text-decoration: none;">Return to Home</a>
                     </div>
                 `;
                 main.style.opacity = '1';
